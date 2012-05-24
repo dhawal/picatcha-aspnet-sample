@@ -1,8 +1,9 @@
-ASP.net Library
+Picatcha ASP.net Sample Application
 =================
 
-Please refer to http://picatcha.com/plugins/aspnet/ for detailed documentation.
+This application is based on ASP.Net library. 
 
-It also has a sample web application that uses ASP.Net library to make it easier for you to use. 
+Please refer to http://picatcha.com/plugins/aspnet/ for detailed documentation of ASP.net library.
+
 
 To run this sample web application, copy the solution file and use it with visual studio.
