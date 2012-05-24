@@ -18,7 +18,7 @@
         <div class="header">
             <div class="title">
                 <h1>
-                    PIX-CAPTCHA DEMO</h1>
+                    Picatcha DEMO</h1>
             </div>
             <div class="loginDisplay">
                 <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">

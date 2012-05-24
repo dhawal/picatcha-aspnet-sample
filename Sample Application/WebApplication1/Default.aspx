@@ -7,7 +7,7 @@
     <asp:Label ID="Label1" runat="server" Text="Label" Visible=False 
         Font-Names="Arial"></asp:Label>
 
-    <!--Initializing PicatchaControl to display Pix-CAPTCHA widget-->
+    <!--Initializing PicatchaControl to display Picatcha widget-->
     <picatcha:PicatchaControl
             ID="pixcaptcha"
             runat="server"
